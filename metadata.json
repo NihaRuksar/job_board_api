@@ -1,0 +1,8 @@
+{
+  "name": "Job Board Platform",
+  "description": "A full-stack job board mimicking the Django features with Node.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
